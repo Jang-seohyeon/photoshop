@@ -1,3 +1,7 @@
+---
+typora-copy-images-to: static
+---
+
 # photoshop
 
 # 기본 구성 요소
@@ -32,7 +36,7 @@ ctrl + W: 닫기
 
 ### 기본 캔버스 설정
 
-![캔버스 설정](C:\Users\장서현\Desktop\포토샵 책\캔버스 설정.PNG)
+![캔버스 설정](./static/캔버스 설정.PNG)
 
 사이즈 단위 / 해상도 조절 -> 제작 버튼 누르기
 
@@ -51,6 +55,5 @@ ctrl + W: 닫기
 사각형
 
 원형
-
-![선택 도구](C:\Users\장서현\Desktop\포토샵 책\선택도구.PNG)
+![선택 도구](static/선택도구.PNG)
 
